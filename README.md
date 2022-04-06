@@ -1,2 +1,2 @@
 # Generics with templates
-Simple C++ Program to implement Generic methods on Containers using Class Template in C++
+Simple C++ Program to implement generic methods and class containers using templates in C++
